@@ -1,0 +1,12 @@
+C:\Repos\InternalEventManager\InternalEventManager\bin\Release\net7.0\InternalEventManager.deps.json
+C:\Repos\InternalEventManager\InternalEventManager\bin\Release\net7.0\InternalEventManager.dll
+C:\Repos\InternalEventManager\InternalEventManager\bin\Release\net7.0\InternalEventManager.pdb
+C:\Repos\InternalEventManager\InternalEventManager\obj\Release\net7.0\InternalEventManager.csproj.AssemblyReference.cache
+C:\Repos\InternalEventManager\InternalEventManager\obj\Release\net7.0\InternalEventManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\InternalEventManager\InternalEventManager\obj\Release\net7.0\InternalEventManager.AssemblyInfoInputs.cache
+C:\Repos\InternalEventManager\InternalEventManager\obj\Release\net7.0\InternalEventManager.AssemblyInfo.cs
+C:\Repos\InternalEventManager\InternalEventManager\obj\Release\net7.0\InternalEventManager.csproj.CoreCompileInputs.cache
+C:\Repos\InternalEventManager\InternalEventManager\obj\Release\net7.0\InternalEventManager.dll
+C:\Repos\InternalEventManager\InternalEventManager\obj\Release\net7.0\refint\InternalEventManager.dll
+C:\Repos\InternalEventManager\InternalEventManager\obj\Release\net7.0\InternalEventManager.pdb
+C:\Repos\InternalEventManager\InternalEventManager\obj\Release\net7.0\ref\InternalEventManager.dll
