@@ -1,4 +1,6 @@
-﻿namespace InternalEventManagerLibrary.Interfaces;
+﻿using System.Threading.Tasks;
+
+namespace InternalEventManagerLibrary.Interfaces;
 
 public interface IEventConsumer<TEvent> where TEvent : IEvent
 {
